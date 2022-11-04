@@ -23,7 +23,6 @@
   },
   "include": ["packages", "scripts"],
   "exclude": [
-    "**/dist",
     "**/tests",
     "**/macros-global.d.ts",
     "packages/volar/*.js"
